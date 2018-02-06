@@ -2,7 +2,6 @@ import java.io.IOException;
 import java.net.URL;
 import java.util.Scanner;
 public class WebScraper {
-    public class urlToString {
         /**
          * Retrieve contents from a URL and return them as a string.
          *
